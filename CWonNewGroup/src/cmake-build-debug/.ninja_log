@@ -1,0 +1,7 @@
+# ninja log v5
+0	324	7067965287391389	CMakeFiles/src.dir/main.cpp.obj	910f483c3c1018d2
+429	540	7067965289539908	src.exe	86bfda901d4b388
+6	338	7067965287541020	CMakeFiles/src.dir/Student.cpp.obj	42373cffb0259a1
+10	423	7067965288389216	CMakeFiles/src.dir/Menu.cpp.obj	fef96d7d5895f858
+3	363	7067965287780743	CMakeFiles/src.dir/Group.cpp.obj	9856bd19055ae9ab
+13	429	7067965288448679	CMakeFiles/src.dir/Stream.cpp.obj	2c940acf0ac7245c
